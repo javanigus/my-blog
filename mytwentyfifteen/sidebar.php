@@ -47,7 +47,7 @@ if ( has_nav_menu( 'primary' ) || has_nav_menu( 'social' ) || is_active_sidebar(
 		<?php endif; ?>
 
 	</div><!-- .secondary -->
-	<img src="http://d3zntdne6n1qh.cloudfront.net/me-bg-removed-with-sand.png" class="me-with-sand">
-	<img src="http://d3zntdne6n1qh.cloudfront.net/me-bg-removed-without-sand.png" class="me-without-sand">
+	<img src="https://ik.imagekit.io/dumani/My_Blog/me-bg-removed-with-sand__1__UXKd7p0yx.png?updatedAt=1635836506308" class="me-with-sand">
+	<img src="https://ik.imagekit.io/dumani/My_Blog/me-bg-removed-without-sand__1__Q1vzn5Z99.png?updatedAt=1635836571121" class="me-without-sand">
 
 <?php endif; ?>
